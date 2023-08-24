@@ -1,1 +1,1 @@
-print("Goodbay")
+print("Goodnigt")
